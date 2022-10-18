@@ -20,7 +20,8 @@ Kubernetes is a production-grade, open-source platform that orchestrates the pla
 
 Cluster Diagram
 
-https://d33wubrfki0l68.cloudfront.net/283cc20bb49089cb2ca54d51b4ac27720c1a7902/34424/docs/tutorials/kubernetes-basics/public/images/module_01_cluster.svg
+![image]([https://user-images.githubusercontent.com/30344406/181816851-d7dee2d7-8fca-4249-99cf-39450a1cacb7.png])
+
 
 The Control Plane is responsible for managing the cluster. The Control Plane coordinates all activities in your cluster, such as scheduling applications, maintaining applications' desired state, scaling applications, and rolling out new updates.
 
