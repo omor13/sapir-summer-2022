@@ -70,3 +70,35 @@ This command shows all nodes that can be used to host our applications. Now we h
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 📧 For Contact:
+
+email: `fadi@analiza-college.co.il`
+
+discord: `Fadi#5225`
+
+
+# Good luck!
+
+
+
+
