@@ -39,11 +39,15 @@ A Kubernetes cluster can be deployed on either physical or virtual machines. To 
 # Cluster up and running
 Check that Minikube is properly installed, by running the minikube version command:
 
+```sh
 minikube version
+```
 
 Start the cluster, by running the minikube start command:
 
+```sh
 minikube start
+```
 
 # Cluster version
 
