@@ -6,13 +6,15 @@ Software Start-Up company located in NY ,USA
 ## Part 1️⃣ - Terraform (30 %)
 
 As a Principal DevOps Engineer , you required to:
-Create Dev Environment using IaC (Terraform) including:
+1. Create Dev Environment using IaC (Terraform) including:
 - New VPC (name it: <yourname>-sapir-vpc) with connection to the internet
 
-Run the code with the provided aws account and save:
+2. Run the code with the provided aws account and save:
 `main.tf`
 `main.tfstate`
 files to a new github repo
+  
+3. Destroy all resources
 
 ## Using Minikube to Create a Cluster
 
