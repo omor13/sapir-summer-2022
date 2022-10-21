@@ -1,5 +1,19 @@
 # Sapir Final Project - Summer 2022
 
+Congratulations! After a lot of hard work in the DevOps, you've landed a job as DevOps Engineer for a
+Software Start-Up company located in NY ,USA
+
+## Part (1) - Terraform (30 %)
+
+As a Principal DevOps Engineer , you required to:
+Create Dev Environment using IaC (Terraform) including:
+- New VPC (name it <yourname>-sapir-vpc) with connection to the internet
+
+Run the code with the provided aws account and save:
+`main.tf`
+`main.tfstate`
+files to a new github repo
+
 ## Using Minikube to Create a Cluster
 
 Objectives:
