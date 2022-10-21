@@ -3,11 +3,13 @@
 Congratulations! After a lot of hard work in the DevOps, you've landed a job as DevOps Engineer for a
 Software Start-Up company located in NY ,USA
 
-you can using th following aws user for project:
+You can using the following aws user for doing this project:
 | Account ID | 777203705741 |
 | ---------- | ------------ |
 | Username   | project      |
 | Password   | u1[HzmmPvHKfPlW |
+| Access key ID | AKIA3J5HTM6GTWZUP4XW |
+| Secret access key | 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 |
 
 
 ## Part 1️⃣ - Terraform (30 %)
