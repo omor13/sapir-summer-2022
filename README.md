@@ -7,7 +7,7 @@ Software Start-Up company located in NY ,USA
 
 As a Principal DevOps Engineer , you required to:
 Create Dev Environment using IaC (Terraform) including:
-- New VPC (name it <yourname>-sapir-vpc) with connection to the internet
+- New VPC (name it: <yourname>-sapir-vpc) with connection to the internet
 
 Run the code with the provided aws account and save:
 `main.tf`
