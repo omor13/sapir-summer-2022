@@ -3,7 +3,7 @@
 Congratulations! After a lot of hard work in the DevOps, you've landed a job as DevOps Engineer for a
 Software Start-Up company located in NY ,USA
 
-## Part (1) - Terraform (30 %)
+## Part 1️⃣ - Terraform (30 %)
 
 As a Principal DevOps Engineer , you required to:
 Create Dev Environment using IaC (Terraform) including:
