@@ -3,12 +3,19 @@
 Congratulations! After a lot of hard work in the DevOps, you've landed a job as DevOps Engineer for a
 Software Start-Up company located in NY ,USA
 
+you can using th following aws user for project:
+| Account ID | 777203705741 |
+| ---------- | ------------ |
+| Username   | project      |
+| Password   | u1[HzmmPvHKfPlW |
+
+
 ## Part 1️⃣ - Terraform (30 %)
 
 As a Principal DevOps Engineer , you required to:
 1. Create Dev Environment using IaC (Terraform) including:
- - New VPC (name it: <yourname>-dev-vpc) with connection to the internet
- - New Subnet ( <yourname>-k8s-subnet ) with 20 available IPv4 addresses
+ - New VPC (name it: {yourname}-dev-vpc) with connection to the internet
+ - New Subnet ( {yourname}-k8s-subnet ) with 20 available IPv4 addresses
 
 2. Run the code with the provided aws account and save:
 `main.tf`
