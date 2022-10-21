@@ -26,6 +26,8 @@ files to a new github repo
   
 3. Destroy all resources
 
+## Part 2️⃣ - minikube (30 %)
+
 ## Using Minikube to Create a Cluster
 
 Objectives:
