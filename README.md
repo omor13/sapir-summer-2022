@@ -34,11 +34,12 @@ Kubernetes coordinates a highly available cluster of computers that are connecte
 
 1. Create ubuntu EC2 t2.micro instance ( {yourname}-k8s )
 2. Connect to the instance using ssh , then install and setup: docker+kubectl+minikube
-3. Create a k8s cluster using Minikube - `Take Screenshot1 showing the result`
+3. Create a k8s cluster using Minikube - `Take *Screenshot1* showing the result`
 4. Deploying the App: gcr.io/google-samples/kubernetes-bootcamp:v1 
-5. Test the app using kubectl Proxy `Take Screenshot2 showing the result`
-6. Scale up the app from 1 pod to 3 `Take Screenshot3 showing the result`
-7. Scale down the app from 3 pod to 2 `Take Screenshot4 showing the result`
+5. Test the app using kubectl Proxy `Take *Screenshot2* showing the result`
+6. Scale up the app from 1 pod to 3 `Take *Screenshot3* showing the result`
+7. Scale down the app from 3 pod to 2 `Take *Screenshot4* showing the result`
+8. Save screenshots to the same github repo you have created in *part 1 
 
 
 
