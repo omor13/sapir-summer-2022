@@ -25,7 +25,7 @@ Kubernetes coordinates a highly available cluster of computers that are connecte
 
 
 
-1. Create ubuntu EC2 t2.micro instance ( {yourname}-k8s ) in the subnet you have created in part 1
+1. Create ubuntu EC2 t3.small instance ( {yourname}-k8s ) with 25 GB Storage on the subnet you have created in part 1
 2. Connect to the instance using ssh , then install and setup: docker+kubectl+minikube
 3. Create a k8s cluster using Minikube - `Take Screenshot1 showing the new cluster`
 4. Deploying the App: gcr.io/google-samples/kubernetes-bootcamp:v1 `Take Screenshot2 showing the new pod`
